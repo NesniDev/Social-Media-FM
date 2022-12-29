@@ -19,7 +19,7 @@ body {
     margin: 0;
     font-family: 'Inter', sans-serif;
     color: var(--baseColor);
-    background: red;
+    background: var(--base-Background);
 }
 /* header */
 
